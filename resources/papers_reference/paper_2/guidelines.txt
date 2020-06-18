@@ -1,0 +1,34 @@
+ field effect transistor technology
+ that is poised to be an alternative to the conventional silicon MOSFET. 
+ Your review should not be about an established FET technology
+ such as the JFET, but rather one that shows potential but has yet to be commercialized. 
+ Examples of such technologies include  devices made from silicon but use a different
+ architecture than the standard MOSFET, transistors made from different semiconducting materials, 
+and transistors made from two-dimensional materials. 
+
+
+Mosfet in silicon, jfet are established 
+mosfet standard, transistors made from different semiconducting material, 
+and transistors made from two-dimensional materials. 
+
+1. Alternatives to Si Mosfet and jfet.
+2. New technologies in the mosfet industry
+3. history of mosfet and jfet
+4. fet 
+
+
+pap2 :
+In this paper, we review the
+approaches to circumvent or surmount the barriers to
+device scaling. These approaches generally fall into two
+categories: new materials and new device structures. We
+describe materials innovations for the gate stack and
+the transistor channel. We also review device structural
+innovations such as the double-gate FET.
+
+i would like to talk about mosfet advantage over bjt and how is it better, 
+and then how these new technologies are better than normal mosfet	
+
+
+8,2,6,7,9
+

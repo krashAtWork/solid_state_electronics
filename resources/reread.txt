@@ -1,0 +1,11 @@
+why a, b andc instead of i, j , k ?
+becaues a, b and c are vectors along the axes of a crystal, 
+these vectors may or may not be orthogonal like i, j, k
+A point in a unit cell is similar to a point in another unit cell
+if the vector r between them, can be expressed as  :
+r = p*a + q*b + s*c
+compound ddddd
+1. 
+kinds of question radius -> packing efficiency, 
+radius -> volume -> density
+do it for zinc blende structure
